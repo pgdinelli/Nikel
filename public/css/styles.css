@@ -1,0 +1,103 @@
+#login {
+    background: linear-gradient(120deg, #4c79d3 44.9%, #fff 45%) no-repeat fixed;
+}
+
+#app {
+    background: linear-gradient(120deg, #fff 44.9%, #4c79d3 45%) no-repeat fixed;
+}
+
+header {
+    border-bottom: 1px solid #bebcbc;
+    padding: 5px;
+    background-color: #fff;
+}
+
+.color-primary {
+    color: #4e0070;
+}
+
+.color-secondary {
+    color: #4c79d3;
+}
+
+.icon-detail {
+    font-size: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.text-login {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.coins {
+    position: absolute;
+    bottom: 100px;
+}
+
+.btn-login {
+    background-color: #4e0070;
+    color: #fff;
+    width: 50%;
+    margin: 0 25%;
+}
+
+.btn-default {
+    background-color: #4e0070;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.btn-cancel {
+    border-radius: 10px;
+}
+
+.btn-float {
+    border-radius: 100%;
+    border: 2px solid #4e0070;
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    bottom: 1rem;
+    right: 2rem;
+    font-size: 35px;
+    background-color: #4e0070;
+    color: #fff;
+    padding: 0 !important;
+}
+
+.btn-float:hover {
+    border: 2px solid #4c79d3;
+    background-color: #fff;
+    color: #4c79d3;
+}
+
+.btn-login:hover, .btn-default:hover {
+    background-color: #4c79d3;
+    color: #fff;
+}
+
+.link-default {
+    color: #4e0070;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.link-default:hover {
+    color: #4c79d3;
+}
+
+.info {
+    border-radius: 20px 20px 0px 0px;
+    padding: 20px 0px;
+}
+
+.logout {
+    min-width: 5rem !important;
+}
+
+.menu {
+    margin-right: 25px;
+}
